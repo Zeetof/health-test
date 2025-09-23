@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Health Tracker - University Wellness Application
 
 A comprehensive health tracking application designed specifically for university students to maintain a balanced lifestyle and promote better health and well-being on campus.
@@ -146,3 +147,6 @@ For support and questions, please contact the development team or create an issu
 ---
 
 **Built with ❤️ for university students' health and wellness** 
+=======
+# health-test
+>>>>>>> 4573fd477d0af53b3c1d3f46c79729fcad43d6dc
