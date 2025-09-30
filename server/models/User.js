@@ -120,6 +120,19 @@ const userSchema = new mongoose.Schema({
     yearOfStudy: Number
   },
   
+  // Roles & Classroom
+  role: {
+    type: String,
+    enum: ['student', 'teacher', 'admin'],
+    default: 'student'
+  },
+  classroom: {
+    name: String,
+    grade: String,
+    section: String,
+    homeroomTeacher: String
+  },
+  
   // Account Status
   isActive: {
     type: Boolean,
